@@ -6,6 +6,10 @@
 
 * [Add users, firefall, and ssh keys.](https://www.digitalocean.com/community/tutorials/initial-server-setup-with-ubuntu-16-04)
 
+* Setup your root user
+
+* add a user to host the server (we used dungeon-master). No permissions are necessary unless you want to git commit as this user.* 
+
 ```bash
 # clone beacon
 git clone https://github.com/ansuz/beacon
