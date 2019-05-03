@@ -1,9 +1,10 @@
 # Installation steps
 
-# Set-up a 1 core vm somewhere
+* Set-up a 1 core vm somewhere
 
-Using Ubuntu 16.04: 
-https://www.digitalocean.com/community/tutorials/initial-server-setup-with-ubuntu-16-04
+* Using Ubuntu 16.04: 
+
+* [Add users, firefall, and ssh keys.](https://www.digitalocean.com/community/tutorials/initial-server-setup-with-ubuntu-16-04)
 
 ```bash
 # clone beacon
