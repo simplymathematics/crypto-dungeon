@@ -53,9 +53,6 @@ npm i -g forever
 forever start server.js
 
 
-# uhhh, so show me around? k
-
-
 
 
 ```
